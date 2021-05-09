@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dice Android</string>
+    <string name="roll_dice">Roll Dice</string>
+</resources>
+
+
+
+<!--java -jar AndroidResize.jar-->
